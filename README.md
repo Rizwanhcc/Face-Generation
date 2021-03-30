@@ -11,7 +11,7 @@ In this project,  The goal was to get a generator network to generate new images
 ## Output of the GAN
 The model has generated the following real looking human images that highly ressemble with the human images.
 
-![](https://github.com/Rizwanhcc/Face-Generation/blob/main/assets/sample.png)
+![](https://github.com/Rizwanhcc/Face-Generation/blob/main/assets/Screenshot%202021-03-31%20at%2001.52.38.png)
 
 
 The project files can be found in Udacity's public [GitHub repo](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/), in the project-face-generation folder.
